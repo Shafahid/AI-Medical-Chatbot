@@ -35,8 +35,6 @@ cd medical-chatbot
 
 ## Run the Chatbot
 
-Now that all the dependencies are installed and the environment is set up, it's time to launch the chatbot!
-
 ### Run the Streamlit App
 
 To start the chatbot, run the following command in your terminal:
