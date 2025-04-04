@@ -30,3 +30,17 @@ Start by cloning the repository:
 ```bash
 git clone https://github.com/yourusername/medical-chatbot.git
 cd medical-chatbot
+
+```
+
+## Run the Chatbot
+
+Now that all the dependencies are installed and the environment is set up, it's time to launch the chatbot!
+
+### Run the Streamlit App
+
+To start the chatbot, run the following command in your terminal:
+
+```bash
+streamlit run app.py
+
