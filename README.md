@@ -28,7 +28,7 @@ Follow these steps to set up the Medical Chatbot:
 Start by cloning the repository:
 
 ```bash
-git clone https://github.com/yourusername/medical-chatbot.git
+git clone https://github.com/Shafahid/medical-chatbot.git
 cd medical-chatbot
 
 ```
